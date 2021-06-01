@@ -1,2 +1,2 @@
-# gis-course
+# Storymaps
 Container für Dateien
